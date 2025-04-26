@@ -1,4 +1,4 @@
 # TestGITHUB_Repository
-TestGITHUB_Repository es mi repositorio público para pruebas de GITHUB, desde explorer, API o GITBASH.
+TestGITHUB_Repository es mi repositorio pÃºblico para pruebas de GITHUB, desde explorer, API o GITBASH.
 
-*NOTICE* - Sincroniza bien el README.md desde explorador de windows
+*NOTICE* - Sincroniza bien el README.md desde explorador de windows.
